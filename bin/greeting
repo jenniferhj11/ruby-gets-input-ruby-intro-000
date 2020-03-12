@@ -8,3 +8,8 @@ name = gets.strip
 def greeting
   puts "name"
 end
+
+def method_name(argument_name)
+    ## whatever ruby code
+
+end
